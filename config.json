@@ -1,0 +1,6 @@
+{
+	"Token": "BOT TOKEN",
+	"MessageID": "MESSAGE ID",
+	"ChannelName": "CHANNEL NAME",
+	"ServerURL": "http://IP ADDRESS:PORT/players.json"
+}

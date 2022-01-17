@@ -1,0 +1,20 @@
+{
+  "name": "vibeful-status-bot",
+  "version": "1.0.0",
+  "description": "Vibeful Discord server: discord.gg/rrHFBmf",
+  "main": "index.js",
+  "scripts": {
+    "test": "status"
+  },
+  "keywords": [
+    "statusbot",
+    "vibeful",
+    "mlodygustav"
+  ],
+  "author": "mlodygustav",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "request": "^2.88.2"
+  }
+}
